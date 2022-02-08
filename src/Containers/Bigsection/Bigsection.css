@@ -1,0 +1,14 @@
+.container-fluid {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+.bigFramer {
+   font-size: 72px !important;
+   font-weight: 700; 
+   text-align: center !important;
+}
+.joinClass {
+    text-align: center !important;
+    margin-bottom: 40px;
+}
